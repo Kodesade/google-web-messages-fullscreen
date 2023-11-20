@@ -2,9 +2,8 @@
 // @name        Fullscreen Button
 // @namespace   Violentmonkey Scripts
 // @match       https://messages.google.com/*
-// @version     1.0
-// @author      -
-// @description 11/19/2023, 9:39:41 PM
+// @version     0.0.1
+// @author      Kodesade
 // @run-at      document-end
 // @grant       waitForElm
 // ==/UserScript==
