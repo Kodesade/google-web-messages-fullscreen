@@ -29,7 +29,7 @@ function waitForElm(selector) {
 }
 
 const FullScreenBtn = document.createElement("button")
-FullScreenBtn.textContent = "🖵"
+FullScreenBtn.textContent = "🖥️"
 FullScreenBtn.className = "fsr-btn"
 FullScreenBtn.style.background = "transparent"
 FullScreenBtn.style.border = "0"
